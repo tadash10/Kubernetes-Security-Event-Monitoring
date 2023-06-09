@@ -1,1 +1,23 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+
+# Ignore logs and temporary files
+logs/
+tmp/
+
+# Ignore sensitive or environment-specific information
+secrets.ini
+.env
+
+# Ignore dependencies installed via pip
+requirements.txt
 
