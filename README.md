@@ -1,6 +1,5 @@
 # Kubernetes-Security-Event-Monitoring
 
-Kubernetes Security Events Monitor
 
 This Python script allows you to monitor security events from Kubernetes clusters, such as pod creations, deletions, privilege escalations, and suspicious container behavior. It connects to the Kubernetes API and watches for relevant security events.
 Installation
